@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    background-color: rgba(30, 28, 27, 0.886);
+height: 500px;
+width: 320px;
+margin:100px auto ;
+padding: 30px;
+}
+.row{
+    text-align: center; 
+}
+.button{
+
+    font-size: 50px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+.buttons >button{
+    height: 75px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 9px;
+    
+}
+.input{
+    width: 200px;
+    padding: 12px;
+    margin: 1px;
+    border: 2px solid black;
+    border-radius: 9px;
+    font-size: 26px;
+}
